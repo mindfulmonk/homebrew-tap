@@ -5,8 +5,10 @@ This fixes DNS resolution when on a VPN with Split DNS.
 
 # Install
 
+```
 brew tap mindfulmonk/tap
 brew install mindfulmonk/tap/vault --with-dynamic
+```
 
 
 # More info
